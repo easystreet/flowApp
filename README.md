@@ -52,7 +52,7 @@ Simply depoy this sfdx project to a fresh scratch org, assign the permission set
 
     The sample data set assumes a standard Salesforce Account - > Contact setup.  If using a Person Account or HEDA model, you will need to use a different sample data set.
 
-    `sfdx force:data:tree:import -p sampleData/Account-Contact.json -u flowApp`
+    `sfdx force:data:tree:import -p sampleData/Account-Contact-plan.json -u flowApp`
 
 ## Alternative Install Script
 
