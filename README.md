@@ -27,3 +27,7 @@ Basic objects, tab and fields created.  A permission set is included.
 - Create flows for course application and registration.
 
 - Implement flow interviews as lightning components within Communities.
+
+## How to use
+
+Simply depoy this sfdx project to a fresh scratch org, then start building your flow(s).
