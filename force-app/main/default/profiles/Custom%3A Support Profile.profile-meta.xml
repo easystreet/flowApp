@@ -3,6 +3,11 @@
     <custom>true</custom>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Account.External_ID__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Application__c.Application_Date__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -41,6 +46,9 @@
         <field>Licenses__c.Type__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <layoutAssignments>
+        <layout>Account-Account %28Support%29 Layout</layout>
+    </layoutAssignments>
     <layoutAssignments>
         <layout>Application__c-Application Layout</layout>
     </layoutAssignments>

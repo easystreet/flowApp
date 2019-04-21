@@ -3,6 +3,11 @@
     <description>For the appFlow project.</description>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Account.External_ID__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Application__c.Application_Date__c</field>
         <readable>true</readable>
     </fieldPermissions>
