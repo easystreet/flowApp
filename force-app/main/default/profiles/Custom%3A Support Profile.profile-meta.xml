@@ -55,6 +55,10 @@
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
+        <tab>Course__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
         <tab>Licenses__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
