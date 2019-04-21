@@ -30,4 +30,4 @@ Basic objects, tab and fields created.  A permission set is included.
 
 ## How to use
 
-Simply depoy this sfdx project to a fresh scratch org, then start building your flow(s).
+Simply depoy this sfdx project to a fresh scratch org, assign the permission set to your profile, then start building your flow(s).
