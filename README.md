@@ -2,7 +2,7 @@
 
 A basic Salesforce object schema with trivial fields and a sample data set for use in scratch orgs.  Just a simple time-saving package when trying out new ideas.
 
-Use this project as a basic proof of concept development model.  Work out your ideas without having to instantiate a new schema or use existing org models.  A quick way to sping up a test/dev environment.
+Use this project as a basic proof of concept development model.  Work out your ideas without having to instantiate a new schema or use existing org models.  A quick way to spin up a test/dev environment.
 
 Includes sample dataset.  
 
